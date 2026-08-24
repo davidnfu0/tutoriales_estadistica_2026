@@ -11,4 +11,4 @@ Este tutorial tiene como objetivo que aprendan a gestionar un proyecto de datos 
 ## 2. Tutorial de NumPy, Pandas y Matplotlib
 
 Este tutorial tiene como objetivo introducir las librerías más utilizadas en el análisis de datos con Python. Se pueden ver los videos explicativos en los siguientes enlaces:
-1. Pendiente...
+1. [Tutorial 3: NumPy, Pandas y Matplotlib](https://youtu.be/8SVjwY6cHuU)
