@@ -12,3 +12,10 @@ Este tutorial tiene como objetivo que aprendan a gestionar un proyecto de datos 
 
 Este tutorial tiene como objetivo introducir las librerías más utilizadas en el análisis de datos con Python. Se pueden ver los videos explicativos en los siguientes enlaces:
 1. [Tutorial 3: NumPy, Pandas y Matplotlib](https://youtu.be/8SVjwY6cHuU)
+
+## 3 . Tutorial de Scikit-learn
+
+Este tutorial tiene como objetivo introducir la librería Scikit-learn, que es la más utilizada para el *machine learning* en Python. A continuación dejo algunos cursos gratitos que pueden servir para profundizar en esta librería:
+1. [Curso de freeCodeCamp](https://youtu.be/0B5eIE_1vpU)
+2. [Curso de introducción al machine learning de Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+3. [Curso de machine learning intermedio de Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
