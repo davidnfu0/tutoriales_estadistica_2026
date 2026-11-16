@@ -15,7 +15,10 @@ Este tutorial tiene como objetivo introducir las librerías más utilizadas en e
 
 ## 3 . Tutorial de Scikit-learn
 
-Este tutorial tiene como objetivo introducir la librería Scikit-learn, que es la más utilizada para el *machine learning* en Python. A continuación dejo algunos cursos gratitos que pueden servir para profundizar en esta librería:
-1. [Curso de freeCodeCamp](https://youtu.be/0B5eIE_1vpU)
-2. [Curso de introducción al machine learning de Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
-3. [Curso de machine learning intermedio de Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
+Este tutorial tiene como objetivo introducir la librería Scikit-learn, que es la más utilizada para el *machine learning* en Python. 
+
+A continuación dejo algunos cursos gratitos que pueden servir para profundizar en esta librería:
+1. [Notebooks del libro: Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python)
+2. [Curso de freeCodeCamp](https://youtu.be/0B5eIE_1vpU)
+3. [Curso de introducción al machine learning de Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)
+4. [Curso de machine learning intermedio de Kaggle](https://www.kaggle.com/learn/intermediate-machine-learning)
